@@ -19,24 +19,24 @@ body {
 }
 
 .carousel-image-1 {
-    background: url(./img/image1.jpg);
+    background: url(https://abhikusi.github.io/Glozzom/img/image1.jpg);
     background-size: cover;
 }
 
 .carousel-image-2 {
-    background: url(./img/image2.jpg);
+    background: url(https://abhikusi.github.io/Glozzom/img/image2.jpg);
     background-size: cover;
 }
 
 .carousel-image-3 {
-    background: url(/img/image3.jpg);
+    background: url(https://abhikusi.github.io/Glozzom/img/image3.jpg);
     background-size: cover;
 }
 
 #home-heading {
     position: relative;
     min-height: 200px;
-    background: url(./img/lights.jpg);
+    background: url(https://abhikusi.github.io/Glozzom/img/lights.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     text-align: center;
@@ -86,7 +86,7 @@ body {
   
 #page-header {
     height: 200px;
-    background-image: url(./img/image1.jpg);
+    background-image: url(https://abhikusi.github.io/Glozzom/img/image1.jpg);
     background-position: 0 -250px;
     background-attachment: fixed;
     color: #fff;
